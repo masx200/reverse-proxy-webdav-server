@@ -2,7 +2,7 @@
 
 反向代理`webdav`服务器,并由`caddy`提供静态文件服务
 
-基于 `caddy` 和 `webdav-cli`
+基于 `caddy` 和 `webdav-cli` 和 `nodejs`
 
 https://github.com/caddyserver/caddy
 
