@@ -21,8 +21,18 @@ https://nodejs.org/en/
 
 https://yarnpkg.com/
 
+
+
+```
+npx yarn global add yarn
+```
+
 ```shell
 yarn global add @masx200/webdav-cli
 ```
 
 # 启动
+
+
+运行`webdav-server`和`caddy-reverse-proxy`目录下的`start.cmd`
+
