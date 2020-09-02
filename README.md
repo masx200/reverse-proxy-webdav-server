@@ -1,7 +1,7 @@
 # reverse-proxy-webdav-server
-反向代理webdav服务器,并提供静态文件服务
+反向代理`webdav`服务器,并由`caddy`提供静态文件服务
 
-基于 caddy 和 webdav-cli
+基于 `caddy` 和 `webdav-cli`
 
 https://github.com/caddyserver/caddy
 
