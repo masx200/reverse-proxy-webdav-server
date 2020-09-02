@@ -36,3 +36,19 @@ yarn global add @masx200/webdav-cli
 
 运行`webdav-server`和`caddy-reverse-proxy`目录下的`start.cmd`
 
+启动 多个 `webdav-cli` 进程 提供服务
+
+http://localhost:1901
+
+http://localhost:1902
+
+http://localhost:1903
+
+http://localhost:1904
+
+http://localhost:1905
+
+
+然后访问 由`caddy server` 提供的网关
+
+http://localhost:1900
