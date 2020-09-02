@@ -1,0 +1,1 @@
+caddy reload --config caddyfile.conf --adapter caddyfile

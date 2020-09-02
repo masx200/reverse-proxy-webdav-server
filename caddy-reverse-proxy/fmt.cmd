@@ -1,0 +1,1 @@
+caddy fmt --overwrite caddyfile.conf
